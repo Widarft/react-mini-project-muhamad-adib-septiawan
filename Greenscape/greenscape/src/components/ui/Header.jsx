@@ -67,7 +67,7 @@ const Header = () => {
             {[
               { name: "HOME", path: "/" },
               { name: "OUR WORK", path: "portofolio" },
-              { name: "CHAT NOW", path: "/aiproductchat" },
+              { name: "CHAT NOW", path: "/aichatbot" },
               { name: "ORDER NOW", path: "/inputorder" },
             ].map((item, index) => (
               <li key={index}>
